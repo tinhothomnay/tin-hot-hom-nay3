@@ -1,7 +1,13 @@
-
 {
-  "title": "🔥 Ninh Thuận - Ninh Sơn : nghe nói mauthuan tình cảm,  người đàn ông tặng hình xăm không phai cho người phụ nữ quá trời, xong về nhà tự tặng hình xăm ko phai vô cổ mình, cái kết là cả 2 người đều không off.. Cân nhắc khi xem",
+  "title": "🔥 Ninh Thuận - Ninh Sơn : nghe nói mauthuan tình cảm,  người đàn ông tặng hình xăm không phai cho người phụ nữ quá trời, xong về nhà tự tặng hình xăm ko phai vô cổ mình, cái kết là cả 2 người đều không off.",
   "content": "Tin Hót Hôm Nay",
-  "image": "media/ảnh2.jpg",
-  "video": "media/video2.mp4"
+
+  "images": [
+    "media/anh3.png",
+    "media/anh3.1.png"
+  ],
+
+  "videos": [
+    "media/vd3.mp4"
+  ]
 }
