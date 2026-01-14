@@ -1,8 +1,13 @@
-
 {
-  "title": "🔥 Ninh Thuận - Ninh Sơn : nghe nói mauthuan tình cảm,  người đàn ông tặng hình xăm không phai cho người phụ nữ quá trời, xong về nhà tự tặng hình xăm ko phai vô cổ mình, cái kết là cả 2 người đều không off.. Cân nhắc khi xem",
+  "title": "🔥 Lào Cai: Nữ sinh lớp 6 bị bạo lực trong lớp học",
   "content": "Tin Hót Hôm Nay",
-  "image": "media/anh3.jpeg",
-  "image": "media/anh3.1.jpeg"
-  "video": "media/vd3.mp4"
+
+  "images": [
+    "media/anh3.jpeg",
+    "media/anh31.jpeg"
+  ],
+
+  "videos": [
+    "media/vd3.mp4"
+  ]
 }
